@@ -1,0 +1,9 @@
+# chroma
+Standard JLAB Chroma with Colorvec and Harom
+
+This is a work in progress.
+
+colorvec directory as yet untested and still buggy, will work on this.
+scalar directory tested.
+
+Sources updated at JLAB on Apr 22.
